@@ -1,0 +1,1 @@
+print'a lovely day'
